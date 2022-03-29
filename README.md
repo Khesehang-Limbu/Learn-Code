@@ -11,3 +11,5 @@ befote we update, we need to track the files to do so, we use git add . for all 
 commit should have a message to do so, git commit -m "your message" -m "description" 
 the first message is for the title, while the second is for the description.
 We usually do so to know why we updated.
+
+besides doing the commit, the update isn't live, so we need to make it live by using another command called git push 
